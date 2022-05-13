@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Computer enigneering Student at the Polythecnic University of Madrid 👨🏻‍💻
   - Programming on Java, #C, Python
   - Frontend Development
-  - Currently learmimg:
+  - Currently learnimg:
       - Flutter
   - Projects:
       - Athan App
