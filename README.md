@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - Currently learnimg:
       - Flutter
   - Projects:
-      - [Athan App](https://www.linkedin.com/in/salman-bouikou-nouinou-73415a1a0/)
+      - [Athan App](https://github.com/salmanbwq/Athan_app)
 
 ## My Social Media
    - Instagram:
