@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   - Currently learnimg:
       - Flutter
   - Projects:
-      - Athan App
+      - [Athan App](https://www.linkedin.com/in/salman-bouikou-nouinou-73415a1a0/)
 
 ## My Social Media
    - Instagram:
-      - <a href="https://www.instagram.com/salman_bwq/">Personal account</a>
-      - Photo account
-   - Twitter
-   - Linkedin
+      - [Personal account](https://www.instagram.com/salman_bwq/)
+      - [Photo account](https://www.instagram.com/bwq_photo/)
+   - [Twitter](https://www.twitter.com/ibnfulann_)
+   - [Linkedin](https://www.linkedin.com/in/salman-bouikou-nouinou-73415a1a0/)
