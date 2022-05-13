@@ -1,4 +1,4 @@
-# Salman Bouikoy Nouinou
+# Salman Bouikou Nouinou
 
 <!--
 **salmanbwq/salmanbwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
