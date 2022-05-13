@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Computer enigneering Student at the Polythecnic University of Madrid
+## Computer enigneering Student at the Polythecnic University of Madrid 👨🏻‍💻
+  - Programming on Java, #C, Python
+  - Frontend Development
+  - Currently learmimg:
+      - Flutter
+  - Projects:
+      - Athan App
+
+## My Social Media
+   - Instagram:
+      - Personal account
+      - Photo account
+   - Twitter
+   - Linkedin
