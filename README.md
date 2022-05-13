@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## My Social Media
    - Instagram:
-      - Personal account <a>www.google.es</a>
+      - Personal account <a href="www.google.es">a</a>
       - Photo account
    - Twitter
    - Linkedin
