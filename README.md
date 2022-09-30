@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   - Frontend Development
   - Currently learnimg:
       - Flutter
-  - Projects:
-      - [Athan App](https://github.com/salmanbwq/Athan_app)
 
 ## My Social Media
    - Instagram:
