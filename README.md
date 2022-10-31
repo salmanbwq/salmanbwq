@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Computer enigneering Student at the Polythecnic University of Madrid 👨🏻‍💻
   - Programming on Java, #C, Python
   - Frontend Development
-  - Currently learnimg:
+  - Currently learning:
       - Flutter
 
 ## My Social Media
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
       - [Personal account](https://www.instagram.com/salman_bwq/)
       - [Photo account](https://www.instagram.com/bwq_photo/)
    - [Twitter](https://www.twitter.com/ibnfulann_)
-   - [Linkedin](https://www.linkedin.com/in/salman-bouikou-nouinou-73415a1a0/)
+   - [Linkedin](https://www.linkedin.com/in/salmanbwq/)
