@@ -24,5 +24,4 @@ Here are some ideas to get you started:
    - Instagram:
       - [Personal account](https://www.instagram.com/salman_bwq/)
       - [Photo account](https://www.instagram.com/bwq_photo/)
-   - [Twitter](https://www.twitter.com/ibnfulann_)
-   - [Linkedin](https://www.linkedin.com/in/salmanbwq/)
+      - [Linkedin](https://www.linkedin.com/in/salmanbwq/)
