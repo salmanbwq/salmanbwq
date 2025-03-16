@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Computer enigneering Student at the Polythecnic University of Madrid 👨🏻‍💻
-  - Programming on Java, #C, Python
+## Computer enigneering👨🏻‍💻
+  - Programming on Java, C, Python, Vhdl.
   - Frontend Development
+  - Backend Development
+  - Distributed systems
+  - Embeded systems
   - Currently learning:
-      - Flutter
+      - Angular
+      - Kotlin
+      - R
 
 ## My Social Media
-   - Instagram:
-      - [Personal account](https://www.instagram.com/salman_bwq/)
-      - [Photo account](https://www.instagram.com/bwq_photo/)
+  -Linkedin  
       - [Linkedin](https://www.linkedin.com/in/salmanbwq/)
